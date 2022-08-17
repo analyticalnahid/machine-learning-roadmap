@@ -42,13 +42,20 @@ A curated list of Machine learning Roadmap
         4. Practice Problems
 
 ## 2. SQL
-        DML Commands - INSERT, SELECT, DELETE, UPDATE, WHERE, ORDER BY
-        SQL Joins
-        Subquery and temp tables
-        SQL Cases
-        Stored Procedures and Functions
-        Window Functions
-        Schema Design (Creating Databases and Tables)
+        Understanding Basic Strucutre Of SQL Table
+        Comment
+        Database Keys 
+        Entity Relationship Diagram
+        Cardinality of relationship 
+        Data Types 
+        Operator
+        SQL Table & Columns
+        Data Integrity & Constraints
+        SQL Wildcard
+        SQL Function
+        Soritng Data  & Grouping Data
+        SQL Join
+        SQL Union
 
 
 ## 3. Mathematics (basic)
