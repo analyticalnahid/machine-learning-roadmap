@@ -1,6 +1,8 @@
 # ML-Roadmap-for-2022
 A curated list of Machine learning Roadmap
 
+<img src="ml_roadmap1.png">
+
 ## 1. Python
 
 #### 1. Learn Python
