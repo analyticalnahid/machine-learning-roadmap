@@ -112,9 +112,9 @@ A curated list of Machine learning Roadmap
         13. EDA on Olympics Dataset
         14. EDA on Covid Data 
 
-## 4. Feature Engineerng
+## 5. Feature Engineerng
 
-#### 4.1 Feature Transformation
+#### 5.1 Feature Transformation
         1. Encoding Variable
                 1. Encode Categorical Variable (Nominal -> One Hot Encoding, Ordinal -> Ordinal Encoding and Label Encoding)
                 2. Encoding Numerical Variable (Binning, Binarization)
@@ -137,21 +137,21 @@ A curated list of Machine learning Roadmap
         7. Handling Date Time Variable
         8. Handling Geospatial Data
         9. Kaggle Notebooks and Practice Datasets - https://docs.google.com/document/d/1_9Y6kxNc6QTym2Y2JGEBbnCUbE1qZWLVzVXlT2eX_FQ/edit?usp=sharing
-#### 4.2 Feature Construction
+#### 5.2 Feature Construction
         1. Feature Construction
-#### 4.3 Feature Extraction
+#### 5.3 Feature Extraction
         1. Feature Extraction
-#### 4.4 Feature Selection
+#### 5.4 Feature Selection
         1. Filter Method (Pearson Correlation Coefficient, Spearman’s Rank Correlation Coefficient, Kendall’s Rank Correlation Coefficient)
         2. Wrapper Method (Forward Feature Selection, Backward Feature Elimination, Exhaustive Feature Selection, Recursive Feature Elimination)
         3. Embedded Methods (Regularization, Feature Importance)
-#### 4.5 Automated Feature Engineering
+#### 5.5 Automated Feature Engineering
         1. FeatureTools
         2. AutoFeat
 
-## 5. Machine Learning Algorithms
+## 6. Machine Learning Algorithms
 
-####  5.1 Learn Machine Learning Basics 
+####  6.1 Learn Machine Learning Basics 
         1. What is Machine Learning
         2. AI vs ML vs DL
         3. Types of Machine Learning 
@@ -168,7 +168,7 @@ A curated list of Machine learning Roadmap
         14. What are Tensors?
         15. How to work with CSV files
         
-#### 5.2 Machine Learning Algo
+#### 6.2 Machine Learning Algo
         1. Linear Regression
               1. Simple Linear Regression
               2. Multiple Linear Regression
@@ -245,7 +245,7 @@ A curated list of Machine learning Roadmap
              4. Market Basket Analysis
 
         
-####  5.3 Improve Machine Learning Algorithms
+####  6.3 Improve Machine Learning Algorithms
 
              1. Bias Variance Tradeoff
              2. Regularization
@@ -259,31 +259,31 @@ A curated list of Machine learning Roadmap
                 2. RandomSearchCV
                 3. Bayesian Optimization
 
-## 6. Additional Topics
+## 7. Additional Topics
 
-#### 6.2 Working with Pipelines
+#### 7.1 Working with Pipelines
          1. Column Transformer
          2. Sklearn Pipelines
-#### 6.1 Working with imbalanced data
+#### 7.2 Working with imbalanced data
          1. Oversampling (Random Oversampling, SMOTE Oversampling, ADASYN Oversampling)
          2. Undersampling (Random Undersampling, NearMiss Undersampling, TomekLinks Undersampling)
          3. Hybrid Sampling (SMOTEENN Sampling, SMOTETomek Sampling)
-#### 6.2 Handling Multicollinearity
+#### 7.3 Handling Multicollinearity
          1. What is Multicollinearity
          1. The correlation coefficient (or correlation matrix) between independent variables
          2. Variance Inflation Factor (VIF)
-#### 6.3 Data Leakage 
+#### 7.4 Data Leakage 
          1. What is Data Leakage?
          2. Leaky Predictors
          3. Leaky Validation
-#### 6.4 Working with Large Datasets
+#### 7.5 Working with Large Datasets
          1. Out of core ML (Sub Sampling, Incremental Learning)
          2. Dask
          3. Vaex
          
-## 6. Depolyment
+## 8. Depolyment
 
-#### 6.1 Serving your model
+#### 8.1 Serving your model
          1. Pickling your model
          2. Depoly model using Flask
          3. Depoly model using Streamlit
@@ -296,22 +296,22 @@ A curated list of Machine learning Roadmap
          10. ML Model to Desktop App
          11. ML in Edge Device using Tflite
 
-## 7. Auto ML
+## 9. Auto ML
         1. Auto SKLearn
         2. Auto Gluon
         3. TPOT
         4. Amazon SageMaker Autopilot
         5. Google Cloud AutoML
  
-## 8. Recommendation Systems
+## 10. Recommendation Systems
         1. Content Based Filtering
         2. Collaborative Filtering
         3. Hybrid
 
-## 9. Machne Learning System Design
+## 11. Machne Learning System Design
         1. Machine Learning System Design -> https://stanford-cs329s.github.io/
 
-## 10. ML Projects
+## 12. ML Projects
         1. Bike Sharing Demand Prediction 
         2. Heart Disease Prediction
         3. Understanding Buying Behavior User
