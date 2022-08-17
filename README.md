@@ -42,6 +42,14 @@ A curated list of Machine learning Roadmap
         4. Practice Problems
 
 ## 2. SQL
+        DML Commands - INSERT, SELECT, DELETE, UPDATE, WHERE, ORDER BY
+        SQL Joins
+        Subquery and temp tables
+        SQL Cases
+        Stored Procedures and Functions
+        Window Functions
+        Schema Design (Creating Databases and Tables)
+
 
 ## 3. Mathematics (basic)
 
@@ -63,8 +71,7 @@ A curated list of Machine learning Roadmap
         4. Uniform Distribution
         5. Binomial Distribution
         6. Bernaulli Distribution
-        7. Poission Distribution
-        8. Playlist Link - https://www.youtube.com/watch?v=Ty7knppVo9E&list=PLKnIA16_RmvYNbPMB6ofVLRCcTPUAftdY           
+        7. Poission Distribution        
            
 #### 3.3 Linear Algebra Basics
         1. Representing Tabular Data
@@ -74,12 +81,10 @@ A curated list of Machine learning Roadmap
         5. Dot Product
         6. Equation of line in N-dim
         7. Eigen Vector and Eigen Values
-        8. Playlist Link - https://www.youtube.com/watch?v=e9h-ZZ_ahRg&list=PLKnIA16_RmvYu0fS_RuIB2eTbJcTFdrAA
 
 #### 3.4 Learn Calculus Basics
         1. Big Picture of Derivatives
         2. Maxima and Minima
-        3. Playlist link - (first 4 videos only) https://www.youtube.com/playlist?list=PLBE9407EA64E2C318
 
 
 ## 4. Data Processing
@@ -90,7 +95,6 @@ A curated list of Machine learning Roadmap
         3. Pull data from Database
 
 #### 4.2 Learn Data Preprocessing
-        1. Playlist - https://www.youtube.com/watch?v=ZhacwtUR0SU&list=PLKnIA16_RmvZAqJzKstVHywcRNMn6pcGD
 
 #### 4.3 Learn Exploratory Data Analysis (EDA)
         1. Understanding your data 
@@ -110,46 +114,40 @@ A curated list of Machine learning Roadmap
 
 ## 4. Feature Engineerng
 
-#### 4.1 Working with missing values
-        1. Complete Case Analysis
-        2. Handling missing numerical data
-        3. Handling missing categorical data 
-        4. Missing indicator 
-        5. KNN Imputer 
-        6. MICE 
-        7. Kaggle Notebooks and Practice Datasets - https://docs.google.com/document/d/1_9Y6kxNc6QTym2Y2JGEBbnCUbE1qZWLVzVXlT2eX_FQ/edit?usp=sharing
-#### 4.2 Feature Scaling/Normalization
-        1. Standarization 
-        2. Normalization 
-#### 4.3 Feature Encoding Techniques
-        1. Ordinal Enconding and Label Encoding 
-        2. One Hot Encoding
-        3. Encoding high cardinality categorical features
-        4. Feature hashing
-#### 4.4 Feature Transformation
-        1. Log Transform
-        2. Box Cox Transform
-        3. Yeo Johnson Transform 
-        4. Discretization
-#### 4.5 Working with Pipelines
-        1. Column Transformer
-        2. Sklearn Pipelines
-#### 4.6 Handing Time and Date data
-        1. Working with time and date data
-#### 4.7 Working with Outliers
-        1. What are Outliers?
-        2. Outlier detection and removal using Z-score method
-        3. Outlier detection and removal using IQR method 
-        4. Percentile method 
-#### 4.8 Feature Construction
+#### 4.1 Feature Transformation
+        1. Encoding Variable
+                1. Encode Categorical Variable (Nominal -> One Hot Encoding, Ordinal -> Ordinal Encoding and Label Encoding)
+                2. Encoding Numerical Variable (Binning, Binarization)
+        2. Feature Scaling
+                1. Standardization
+                2. Noramlization (MinMaxScaling,Mean Normalization, Robust Scaling)
+        3. Handling Outlier
+                1. Trimming
+                2. Capping (Z Score, IQR, Percentile)
+                3. Imputing
+        4. Handling Missing Data
+                1. Numerical Variables (Mean or median imputation, Arbitrary value imputation, End of tail imputation)
+                2. Categorical Variables (Frequent category imputation, Add a missing category)
+                3. Hybrid (Complete case analysis, Random sample imputation)
+                4. Multivariate (KNN Imputer, Interative Imputer)
+        5. Variable Transformation
+                1. Function Transformer (Logarithmic transformation, Square root transformation, Reciprocal transformation, Power transformation)
+                2. Power Transformer (Box-Cox transformation, Yeo-Johnson transformation)
+        6. Handling Mixed Variable
+        7. Handling Date Time Variable
+        8. Handling Geospatial Data
+        9. Kaggle Notebooks and Practice Datasets - https://docs.google.com/document/d/1_9Y6kxNc6QTym2Y2JGEBbnCUbE1qZWLVzVXlT2eX_FQ/edit?usp=sharing
+#### 4.2 Feature Construction
         1. Feature Construction
-#### 4.9 Feature Selection
-         1. Feature selection using SelectKBest and Recursive Feature Elimination 
-         2. Chi-squared Feature Selection 
-         3. Backward Feature Elimination
-         4. Dropping features using Pearson correlation coefficient 
-         5. Feature Importance using Random Forest
-         6. Feature Selection Advise 
+#### 4.3 Feature Extraction
+        1. Feature Extraction
+#### 4.4 Feature Selection
+        1. Filter Method (Pearson Correlation Coefficient, Spearman’s Rank Correlation Coefficient, Kendall’s Rank Correlation Coefficient)
+        2. Wrapper Method (Forward Feature Selection, Backward Feature Elimination, Exhaustive Feature Selection, Recursive Feature Elimination)
+        3. Embedded Methods (Regularization, Feature Importance)
+#### 4.5 Automated Feature Engineering
+        1. FeatureTools
+        2. AutoFeat
 
 ## 5. Machine Learning Algorithms
 
@@ -255,43 +253,70 @@ A curated list of Machine learning Roadmap
                 1. Leave 1 Out Cross Validation
                 2. Holdout Method 
                 3. K-Fold Cross Validation
+                4. StratifiedKFold Cross Validation
              4. Hyperparameter Tunning
                 1. GridSearchCV 
                 2. RandomSearchCV
+                3. Bayesian Optimization
 
 ## 6. Additional Topics
 
+#### 6.2 Working with Pipelines
+         1. Column Transformer
+         2. Sklearn Pipelines
 #### 6.1 Working with imbalanced data
-         3. SMOTE 
+         1. Oversampling (Random Oversampling, SMOTE Oversampling, ADASYN Oversampling)
+         2. Undersampling (Random Undersampling, NearMiss Undersampling, TomekLinks Undersampling)
+         3. Hybrid Sampling (SMOTEENN Sampling, SMOTETomek Sampling)
 #### 6.2 Handling Multicollinearity
-         1. What is multicollinearity?
-         2. Practical Example 
-         3. VIF in Multicollinearity 
+         1. What is Multicollinearity
+         1. The correlation coefficient (or correlation matrix) between independent variables
+         2. Variance Inflation Factor (VIF)
 #### 6.3 Data Leakage 
          1. What is Data Leakage?
+         2. Leaky Predictors
+         3. Leaky Validation
 #### 6.4 Working with Large Datasets
-         1. What is Out of core ML?
-         2. Practical implementation of Out of core ML
-         3. NYC Cab Dataset Project
+         1. Out of core ML (Sub Sampling, Incremental Learning)
+         2. Dask
+         3. Vaex
          
 ## 6. Depolyment
 
 #### 6.1 Serving your model
          1. Pickling your model
          2. Depoly model using Flask
-         3. Depoly mode Streamlit
+         3. Depoly model using Streamlit
          4. Deploy model on Heroku
          5. Deploy model on AWS 
          6. Deploy model to GCP 
          7. Deploy model to Azure
-         8. ML model to Android App
-         9. ML Model to Desktop App
+         8. Serve model as API using FastAPI
+         9. ML model to Android App
+         10. ML Model to Desktop App
+         11. ML in Edge Device using Tflite
 
 ## 7. Auto ML
+        1. Auto SKLearn
+        2. Auto Gluon
+        3. TPOT
+        4. Amazon SageMaker Autopilot
+        5. Google Cloud AutoML
  
 ## 8. Recommendation Systems
+        1. Content Based Filtering
+        2. Collaborative Filtering
+        3. Hybrid
 
 ## 9. Machne Learning System Design
+        1. Machine Learning System Design -> https://stanford-cs329s.github.io/
 
 ## 10. ML Projects
-
+        1. Bike Sharing Demand Prediction 
+        2. Heart Disease Prediction
+        3. Understanding Buying Behavior User
+        4. Customer Churn Rate Prediction
+        5. House Price Prediction
+        6. Credit Card Fraud Detection
+        7. Customer Segmentation
+        8. Car Price Prediction
