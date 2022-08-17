@@ -5,7 +5,7 @@ A curated list of Machine learning Roadmap
 
 ## 1. Python
 
-#### 1. Learn Python
+#### 1. Learn Python - https://github.com/analyticalnahid/Python-Tutorial-For-Datascience
         1. Basics of Python
            - Syntax
            - Control Statement 
@@ -22,28 +22,28 @@ A curated list of Machine learning Roadmap
            - Exception Handling 
            - Regular Expressions (mostly required in NLP)
            - Basics of Flask/Django (web projects)
-           - Streamlit
+           - Streamlit - https://github.com/analyticalnahid/Streamlit-Tutorial
            - Gradio
-           - Basic of Tkinter (gui based application)
+           - Basic of Tkinter (gui based application) - https://github.com/analyticalnahid/Tkinter-Tutorial
            - BeautifulSoap (web scraping)
            - FastApi & Postman (working with api)
         4. Practice Problems
 
 #### 1.2 Learn Numpy
-        1. Numpy Tutorial
+        1. Numpy Tutorial - https://github.com/analyticalnahid/Numpy-Tutorial
         2. Numpy Practice Problems - https://github.com/rougier/numpy-100
 
 #### 1.3 Learn Pandas
-        1. Pandas Tutorial
+        1. Pandas Tutorial - https://github.com/analyticalnahid/Pandas-Tutorial
         2. Pandas Practice Problems - https://github.com/ajcr/100-pandas-puzzles
 
 #### 1.4 Learn Data Visualization
-        1. Matplotlib Tutorial
-        2. Seaborn Tutorial
-        3. Poltly Tutorial
+        1. Matplotlib Tutorial - https://github.com/analyticalnahid/Matplotlib-Tutorial
+        2. Seaborn Tutorial - https://github.com/analyticalnahid/Seaborn-Tutorial
+        3. Poltly Tutorial - https://github.com/analyticalnahid/Plotly-Tutorial
         4. Practice Problems
 
-## 2. SQL
+## 2. SQL - https://github.com/analyticalnahid/SQL-Tutorial-For-Datascience
         Understanding Basic Strucutre Of SQL Table
         Comment
         Database Keys 
@@ -98,12 +98,12 @@ A curated list of Machine learning Roadmap
 
 ## 4. Data Processing
 
-####  4.1 Data Acquisition
+####  4.1 Data Acquisition - https://github.com/analyticalnahid/Data-Acquation
         1. Downloading data from Kaggle
         2. Ftech data from API
         3. Pull data from Database
 
-#### 4.2 Learn Data Preprocessing
+#### 4.2 Learn Data Preprocessing - https://github.com/analyticalnahid/Data-Preprocessing
 
 #### 4.3 Learn Exploratory Data Analysis (EDA)
         1. Understanding your data 
@@ -121,7 +121,7 @@ A curated list of Machine learning Roadmap
         13. EDA on Olympics Dataset
         14. EDA on Covid Data 
 
-## 5. Feature Engineerng
+## 5. Feature Engineerng - https://github.com/analyticalnahid/Feature-Engineering-Tutorial
 
 #### 5.1 Feature Transformation
         1. Encoding Variable
