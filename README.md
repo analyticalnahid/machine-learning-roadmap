@@ -19,7 +19,7 @@ A curated list of Machine learning Roadmap
    - [Abstraction]()
 4. [Advance Topics]()
    - [File Handling]()
-   - [Exception Handling] ()
+   - [Exception Handling]()
    - [Regular Expressions (mostly required in NLP)]()
    - [Basics of Flask/Django (web projects)]()
    - [Streamlit](https://github.com/analyticalnahid/Streamlit-Tutorial)
