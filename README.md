@@ -6,7 +6,7 @@ My suggestions will be just follow this roadmap more amazing this come will soon
 
 ## 1. Python
 
-#### 1. Learn Python - https://github.com/analyticalnahid/Python-Tutorial-For-Datascience
+#### 1.1 Learn Python - https://github.com/analyticalnahid/Python-Tutorial-For-Datascience
         1. Basics of Python
            - Syntax
            - Control Statement 
@@ -28,7 +28,7 @@ My suggestions will be just follow this roadmap more amazing this come will soon
            - Basic of Tkinter (gui based application) - https://github.com/analyticalnahid/Tkinter-Tutorial
            - BeautifulSoap (web scraping)
            - FastApi & Postman (working with api)
-        4. Practice Problems
+        5. Practice Problems
 
 #### 1.2 Learn Numpy
         1. Numpy Tutorial - https://github.com/analyticalnahid/Numpy-Tutorial
@@ -196,26 +196,26 @@ My suggestions will be just follow this roadmap more amazing this come will soon
               2. Logistic Regression using Softmax
               3. Classification Metrics (Confusion matrix, Accuracy, Precision, Recall, F-measure, ROC and AUC Curve)
               
-        7. Support Vector Machines
+        4. Support Vector Machines
               1. Hard margin & Soft margin SVM
               2. SVR for Rgression
               3. SVC for Classification
               4. Kernel Trick for Non linear data (RBF Kernel, Polynomial Kernel)
              
-        8. Naive Bayes 
+        5. Naive Bayes 
               1. Multinomial Naive Bayes
               2. Gaussian Naive Bayes
               3. Bernoulli Naive Bayes
         
-        9. K Nearest Neighbors 
+        6. K Nearest Neighbors 
               1. KNN Classifier
               2. KNN Regressor
         
-        10. Decision Trees 
+        7. Decision Trees 
               1. Decision Tree Classifier
               2. Decision Tree Regressor
         
-        11. Ensemble Learning
+        8. Ensemble Learning
               1. Voting Ensemble
                    1. Voting Classifier
                    2. Voting Regressor
@@ -234,21 +234,21 @@ My suggestions will be just follow this roadmap more amazing this come will soon
               4. Stacking and Blending
               
            
-        12. Clustering 
+        9. Clustering 
              1. KMeans Clustering   
              2. Heirarchical Clustering
              3. Density-based Spatial Clustering of Applications With Noise (DBScan)
         
-        16. Dimensionality Reduction 
+        10. Dimensionality Reduction 
              1. Principal Component Analysis (PCA)
              2. Linear Discriminant Analysis (LDA)
              3. t-Distributed Stochastic Neighbor Embedding (t-SNE)
 
-        17. Anomaly Detection
+        11. Anomaly Detection
              1. Anomaly detection using Isolation Forest
              2. Anomaly detection usning PyCaret
         
-        18. Association Rule Learning
+        12. Association Rule Learning
              1. Apriori
              2. ECLAT
              3. Frequent Pattern (FP)
