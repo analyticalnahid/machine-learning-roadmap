@@ -341,6 +341,6 @@ My suggestions will be just follow this roadmap more amazing things will come so
 <a href="https://facebook.com/iamtechnicalnahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iamtechnicalnahid" height="30" width="40" /></a>
 <a href="https://instagram.com/analyticalnahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="analyticalnahid" height="30" width="40" /></a>
 <a href="https://analyticalnahid.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://analyticalnahid.medium.com" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCLeFKnFwC11FQWvtFk32vJQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCLeFKnFwC11FQWvtFk32vJQ" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@analyticalnahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCLeFKnFwC11FQWvtFk32vJQ" height="30" width="40" /></a>
 </p>
         
